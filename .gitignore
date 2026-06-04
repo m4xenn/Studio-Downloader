@@ -1,0 +1,16 @@
+# Python / Derleme / Sistem Klasörleri
+__pycache__/
+build/
+dist/
+Installer/
+*.spec
+*.pyc
+
+# Sanal Ortam (Varsa)
+venv/
+env/
+.venv/
+
+# Sistem Gizli Dosyaları
+.DS_Store
+Thumbs.db
